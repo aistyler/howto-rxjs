@@ -1,5 +1,7 @@
 # HowTo RxJS(Reactive Extensions For JavaScript)
 
+RxJS is a library for composing asynchronous and event-based program by using observable sequences.
+
 ## ECMA Observable
 
 The `Observable` type can be used to model push-based data sources such as DOM envents, timer intervals, and sockets.
